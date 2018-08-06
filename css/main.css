@@ -40,3 +40,10 @@
   width: 140px;
   margin: 5px;
 }
+
+@media screen and (min-width: 768px) {
+  #map {
+    width: 50vw;
+    height: 25vw;
+  }
+}
